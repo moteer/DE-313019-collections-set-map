@@ -10,4 +10,7 @@
 - Hint: a map for the phonebook: key = firstname + lastname, value = Contact-object
 
 3. public void printContactsSortedByFirstname();
-4. The toString method should print the phonebook in order of entrance 
+4. The toString method should print the phonebook in order of entrance
+5. Implement a class PairGenerator that generates random pairs of contacts. The PariGenerator should be able to be used with students too, so that we can generate random study buddies
+   - public Set<Team> getTeam() // should return a set of teams with 2 people in each team
+   - make use of the PairGenerator with Another Type like e.g. Student(name, lastname, matricleNumber, mainSubject)
