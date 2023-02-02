@@ -8,3 +8,6 @@
    - Bonus: public Contact getByNumber(String phoneNo) to retrieve a contact by its number
 
 - Hint: a map for the phonebook: key = firstname + lastname, value = Contact-object
+
+3. public void printContactsSortedByFirstname();
+4. The toString method should print the phonebook in order of entrance 
